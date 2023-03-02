@@ -10,6 +10,10 @@
     }],
     "@semantic-release/github"
     ],
-  "repositoryUrl": "https://github.com/kijewskimateusz/semantic.git"
+  "repositoryUrl": "https://github.com/kijewskimateusz/semantic.git",
+  "debug": true,
+  "ci": false,
+  "dryRun": true
+
 
 }
