@@ -1,3 +1,10 @@
+# [1.1.0-beta.6](https://github.com/kijewskimateusz/semantic/compare/v1.1.0-beta.5...v1.1.0-beta.6) (2023-03-02)
+
+
+### Bug Fixes
+
+* **foo:** edited text ([1c8b42a](https://github.com/kijewskimateusz/semantic/commit/1c8b42a10e3267e1a34c843c7ab6ce356054b165))
+
 # [1.1.0-beta.5](https://github.com/kijewskimateusz/semantic/compare/v1.1.0-beta.4...v1.1.0-beta.5) (2023-03-02)
 
 
