@@ -1,3 +1,10 @@
+# [1.2.0-beta.1](https://github.com/kijewskimateusz/semantic/compare/v1.1.0...v1.2.0-beta.1) (2023-03-02)
+
+
+### Features
+
+* **foo:** text file ([61e206c](https://github.com/kijewskimateusz/semantic/commit/61e206c0e42049fb36a52b288116aa5f0e7b608e))
+
 # [1.1.0](https://github.com/kijewskimateusz/semantic/compare/v1.0.0...v1.1.0) (2023-03-02)
 
 
