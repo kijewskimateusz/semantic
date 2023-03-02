@@ -1,3 +1,15 @@
+# [1.1.0-beta.1](https://github.com/kijewskimateusz/semantic/compare/v1.0.0...v1.1.0-beta.1) (2023-03-02)
+
+
+### Bug Fixes
+
+* **foo:** baz ([8edb529](https://github.com/kijewskimateusz/semantic/commit/8edb5299fe27632a5703f20d15919f3f152e57cb))
+
+
+### Features
+
+* **bar:** qux ([8f9309a](https://github.com/kijewskimateusz/semantic/commit/8f9309a6cf5ba81d6349e62e096696852279e6eb))
+
 # 1.0.0 (2023-03-02)
 
 
