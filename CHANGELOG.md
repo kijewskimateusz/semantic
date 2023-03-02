@@ -1,3 +1,10 @@
+# [1.1.0-beta.3](https://github.com/kijewskimateusz/semantic/compare/v1.1.0-beta.2...v1.1.0-beta.3) (2023-03-02)
+
+
+### Bug Fixes
+
+* **bar:** foo baz ([f608a0c](https://github.com/kijewskimateusz/semantic/commit/f608a0cf630389f2a9eb9e4eefec81ddee1eb8f4))
+
 # [1.1.0-beta.2](https://github.com/kijewskimateusz/semantic/compare/v1.1.0-beta.1...v1.1.0-beta.2) (2023-03-02)
 
 
