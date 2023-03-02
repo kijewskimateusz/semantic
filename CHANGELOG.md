@@ -1,3 +1,18 @@
+# [1.1.0](https://github.com/kijewskimateusz/semantic/compare/v1.0.0...v1.1.0) (2023-03-02)
+
+
+### Bug Fixes
+
+* **bar:** foo ([8aedcd3](https://github.com/kijewskimateusz/semantic/commit/8aedcd39d3e18b3d0eae808c45068e93230cf4ad))
+* **bar:** foo bar baz ([cdd8dec](https://github.com/kijewskimateusz/semantic/commit/cdd8decd67d20def74dcf3f1eeecf0493dc67390))
+* **bar:** foo baz ([f608a0c](https://github.com/kijewskimateusz/semantic/commit/f608a0cf630389f2a9eb9e4eefec81ddee1eb8f4))
+* **foo:** baz ([8edb529](https://github.com/kijewskimateusz/semantic/commit/8edb5299fe27632a5703f20d15919f3f152e57cb))
+
+
+### Features
+
+* **bar:** qux ([8f9309a](https://github.com/kijewskimateusz/semantic/commit/8f9309a6cf5ba81d6349e62e096696852279e6eb))
+
 # [1.1.0-beta.4](https://github.com/kijewskimateusz/semantic/compare/v1.1.0-beta.3...v1.1.0-beta.4) (2023-03-02)
 
 
