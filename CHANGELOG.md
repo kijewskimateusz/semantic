@@ -1,3 +1,10 @@
+# [1.1.0-beta.5](https://github.com/kijewskimateusz/semantic/compare/v1.1.0-beta.4...v1.1.0-beta.5) (2023-03-02)
+
+
+### Features
+
+* **foo:** text feature ([71fa6d6](https://github.com/kijewskimateusz/semantic/commit/71fa6d678793f8fc6d7009255b605ff8a95a652a))
+
 # [1.1.0-beta.4](https://github.com/kijewskimateusz/semantic/compare/v1.1.0-beta.3...v1.1.0-beta.4) (2023-03-02)
 
 
