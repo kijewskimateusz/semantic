@@ -1,3 +1,16 @@
+# [1.6.0](https://github.com/kijewskimateusz/semantic/compare/v1.5.0...v1.6.0) (2023-03-03)
+
+
+### Bug Fixes
+
+* **file2:** edited file2 ([316ea9a](https://github.com/kijewskimateusz/semantic/commit/316ea9a464d9d8f26b653d255c566d7e5d035600))
+
+
+### Features
+
+* **file:** added new line ([375d796](https://github.com/kijewskimateusz/semantic/commit/375d79664e7502b1b6df6ea81cae0ddeb77ee7a5))
+* **file:** added next line ([e8174c2](https://github.com/kijewskimateusz/semantic/commit/e8174c28695330c313c1f62f0616f44eaa3f02ad))
+
 # [1.6.0-dev-qux.1](https://github.com/kijewskimateusz/semantic/compare/v1.5.0...v1.6.0-dev-qux.1) (2023-03-03)
 
 
