@@ -1,3 +1,24 @@
+## [1.7.1-dev-this.3](https://github.com/kijewskimateusz/semantic/compare/v1.7.1-dev-this.2...v1.7.1-dev-this.3) (2023-03-03)
+
+
+### Bug Fixes
+
+* **file2:** edited single line for third  time ([c48f1a1](https://github.com/kijewskimateusz/semantic/commit/c48f1a1c85f4a0717354499afe14a1d5d3e7c95b))
+
+## [1.7.1-dev-this.2](https://github.com/kijewskimateusz/semantic/compare/v1.7.1-dev-this.1...v1.7.1-dev-this.2) (2023-03-03)
+
+
+### Bug Fixes
+
+* **file2:** edited single line for the second time ([e8e24a9](https://github.com/kijewskimateusz/semantic/commit/e8e24a9176226c9b89f2d4c56147d9d4d19144f0))
+
+## [1.7.1-dev-this.1](https://github.com/kijewskimateusz/semantic/compare/v1.7.0...v1.7.1-dev-this.1) (2023-03-03)
+
+
+### Bug Fixes
+
+* **file2:** edited single line ([fe649d9](https://github.com/kijewskimateusz/semantic/commit/fe649d92d54d962279a3734dee2a3b74c6cc3a46))
+
 # [1.7.0](https://github.com/kijewskimateusz/semantic/compare/v1.6.0...v1.7.0) (2023-03-03)
 
 

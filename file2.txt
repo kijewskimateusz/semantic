@@ -1,3 +1,4 @@
-asdf
 foo
-bar
+foo
+foo
+foo
