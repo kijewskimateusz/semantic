@@ -1,3 +1,11 @@
+## [1.5.1-dev-bat.1](https://github.com/kijewskimateusz/semantic/compare/v1.5.0...v1.5.1-dev-bat.1) (2023-03-03)
+
+
+### Bug Fixes
+
+* **file2:** edited file2 ([00a8df3](https://github.com/kijewskimateusz/semantic/commit/00a8df3a84a9870c0c1612d122add7228a579f4c))
+* **file:** edited file ([693795a](https://github.com/kijewskimateusz/semantic/commit/693795a05fdaa20438f83f87b732e16158795df1))
+
 # [1.5.0](https://github.com/kijewskimateusz/semantic/compare/v1.4.0...v1.5.0) (2023-03-03)
 
 
