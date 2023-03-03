@@ -1,3 +1,19 @@
+# [1.2.0](https://github.com/kijewskimateusz/semantic/compare/v1.1.0...v1.2.0) (2023-03-03)
+
+
+### Features
+
+* **foo:** release file ([ab7af7d](https://github.com/kijewskimateusz/semantic/commit/ab7af7d8c3b8d7794bdaed479cf87eb26c283f90))
+* **foo:** text file ([61e206c](https://github.com/kijewskimateusz/semantic/commit/61e206c0e42049fb36a52b288116aa5f0e7b608e))
+
+# [1.2.0](https://github.com/kijewskimateusz/semantic/compare/v1.1.0...v1.2.0) (2023-03-03)
+
+
+### Features
+
+* **foo:** release file ([ab7af7d](https://github.com/kijewskimateusz/semantic/commit/ab7af7d8c3b8d7794bdaed479cf87eb26c283f90))
+* **foo:** text file ([61e206c](https://github.com/kijewskimateusz/semantic/commit/61e206c0e42049fb36a52b288116aa5f0e7b608e))
+
 # [1.2.0-beta.2](https://github.com/kijewskimateusz/semantic/compare/v1.2.0-beta.1...v1.2.0-beta.2) (2023-03-03)
 
 
