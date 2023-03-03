@@ -4,4 +4,4 @@ baz
 bar
 baz
 foo bar
-foo
+bar
