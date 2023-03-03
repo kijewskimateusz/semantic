@@ -1,3 +1,10 @@
+# [1.3.0-dev-foobarbaz.1](https://github.com/kijewskimateusz/semantic/compare/v1.2.1-dev-foobarbaz.1...v1.3.0-dev-foobarbaz.1) (2023-03-03)
+
+
+### Features
+
+* **file:** added new line docs ([5d1c77c](https://github.com/kijewskimateusz/semantic/commit/5d1c77c9d9ba681c1678e4a6a5d8773a7447c01b))
+
 ## [1.2.1-dev-foobarbaz.1](https://github.com/kijewskimateusz/semantic/compare/v1.2.0...v1.2.1-dev-foobarbaz.1) (2023-03-03)
 
 
