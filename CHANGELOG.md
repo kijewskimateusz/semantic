@@ -1,3 +1,10 @@
+## [1.7.1-dev-this.2](https://github.com/kijewskimateusz/semantic/compare/v1.7.1-dev-this.1...v1.7.1-dev-this.2) (2023-03-03)
+
+
+### Bug Fixes
+
+* **file2:** edited single line for the second time ([e8e24a9](https://github.com/kijewskimateusz/semantic/commit/e8e24a9176226c9b89f2d4c56147d9d4d19144f0))
+
 ## [1.7.1-dev-this.1](https://github.com/kijewskimateusz/semantic/compare/v1.7.0...v1.7.1-dev-this.1) (2023-03-03)
 
 
