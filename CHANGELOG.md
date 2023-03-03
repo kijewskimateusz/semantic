@@ -1,3 +1,10 @@
+## [1.2.1-dev-foobarbaz.1](https://github.com/kijewskimateusz/semantic/compare/v1.2.0...v1.2.1-dev-foobarbaz.1) (2023-03-03)
+
+
+### Bug Fixes
+
+* **release:** changed git plugin ([7ffc884](https://github.com/kijewskimateusz/semantic/commit/7ffc884638591ab70a9d01c98782ffc8c57d0638))
+
 # [1.2.0](https://github.com/kijewskimateusz/semantic/compare/v1.1.0...v1.2.0) (2023-03-03)
 
 
