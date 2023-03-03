@@ -1,3 +1,4 @@
 foo bar baz dux
 baz 
 foo
+baz
