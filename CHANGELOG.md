@@ -1,3 +1,10 @@
+# [1.4.0-beta.2](https://github.com/kijewskimateusz/semantic/compare/v1.4.0-beta.1...v1.4.0-beta.2) (2023-03-03)
+
+
+### Features
+
+* **CI:** edited workflow trigger ([53bd32f](https://github.com/kijewskimateusz/semantic/commit/53bd32f14bee5bf93afb70c2a5810ee8a729f8e0))
+
 # [1.4.0-beta.1](https://github.com/kijewskimateusz/semantic/compare/v1.4.0-FOO.1...v1.4.0-beta.1) (2023-03-03)
 
 
