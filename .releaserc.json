@@ -3,7 +3,7 @@
       { "name": "main" },
       { "name": "master" },
       { "name": "dev-*", "prerelease": true},
-      { "name": "beta", "channel": "beta", "prerelease": true }
+      { "name": "beta", "prerelease": true}
     ],
     "plugins": [
       "@semantic-release/commit-analyzer",

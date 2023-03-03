@@ -1,3 +1,24 @@
+# [1.4.0-beta.2](https://github.com/kijewskimateusz/semantic/compare/v1.4.0-beta.1...v1.4.0-beta.2) (2023-03-03)
+
+
+### Features
+
+* **CI:** edited workflow trigger ([53bd32f](https://github.com/kijewskimateusz/semantic/commit/53bd32f14bee5bf93afb70c2a5810ee8a729f8e0))
+
+# [1.4.0-beta.1](https://github.com/kijewskimateusz/semantic/compare/v1.4.0-FOO.1...v1.4.0-beta.1) (2023-03-03)
+
+
+### Features
+
+* **release:** added beta as prerelease ([023ee3e](https://github.com/kijewskimateusz/semantic/commit/023ee3e917007905691212b2572852e902cd08f3))
+
+# [1.4.0-FOO.1](https://github.com/kijewskimateusz/semantic/compare/v1.3.0...v1.4.0-FOO.1) (2023-03-03)
+
+
+### Features
+
+* **file:** new line ([670a9e3](https://github.com/kijewskimateusz/semantic/commit/670a9e31b36e0f2d1839d133c2fb9ff2caeb5a57))
+
 # [1.3.0](https://github.com/kijewskimateusz/semantic/compare/v1.2.0...v1.3.0) (2023-03-03)
 
 
