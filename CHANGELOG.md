@@ -1,3 +1,10 @@
+# [1.7.0-dev-fix.2](https://github.com/kijewskimateusz/semantic/compare/v1.7.0-dev-fix.1...v1.7.0-dev-fix.2) (2023-03-03)
+
+
+### Bug Fixes
+
+* **file:** edited other line in file ([74696ca](https://github.com/kijewskimateusz/semantic/commit/74696ca92f1dec8c71f1966b313ebe628903d2ef))
+
 # [1.7.0-dev-fix.1](https://github.com/kijewskimateusz/semantic/compare/v1.6.0...v1.7.0-dev-fix.1) (2023-03-03)
 
 
