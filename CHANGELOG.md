@@ -1,9 +1,19 @@
-# [1.4.0](https://github.com/kijewskimateusz/semantic/compare/v1.3.0...v1.4.0) (2023-03-03)
+# [1.5.0-dev-foo.1](https://github.com/kijewskimateusz/semantic/compare/v1.4.0...v1.5.0-dev-foo.1) (2023-03-03)
+
+
+### Features
+
+* **foo:** workflow on every push ([5bbd7df](https://github.com/kijewskimateusz/semantic/commit/5bbd7df280d4d4f72109e4c69f7531dfd46c4501))
+
+# [1.4.0-dev-foo.1](https://github.com/kijewskimateusz/semantic/compare/v1.3.0...v1.4.0-dev-foo.1) (2023-03-03)
+
 
 
 ### Features
 
 * **file2:** another file ([c620576](https://github.com/kijewskimateusz/semantic/commit/c620576a82da2c59f5ea5b2a225963b2f5701135))
+* **foo:** workflow on every push ([5bbd7df](https://github.com/kijewskimateusz/semantic/commit/5bbd7df280d4d4f72109e4c69f7531dfd46c4501))
+
 
 # [1.4.0-beta.2](https://github.com/kijewskimateusz/semantic/compare/v1.4.0-beta.1...v1.4.0-beta.2) (2023-03-03)
 
