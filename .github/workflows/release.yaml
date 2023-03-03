@@ -7,7 +7,6 @@ on:
       - beta
       - dev-*
 
-
 jobs:
   release:
     name: Release
@@ -25,3 +24,5 @@ jobs:
         run: npm install -g semantic-release @semantic-release/git @semantic-release/changelog -D
       - name: Release
         run: npx semantic-release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
