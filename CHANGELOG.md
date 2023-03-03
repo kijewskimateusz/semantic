@@ -1,3 +1,10 @@
+# [1.4.0-beta.1](https://github.com/kijewskimateusz/semantic/compare/v1.4.0-FOO.1...v1.4.0-beta.1) (2023-03-03)
+
+
+### Features
+
+* **release:** added beta as prerelease ([023ee3e](https://github.com/kijewskimateusz/semantic/commit/023ee3e917007905691212b2572852e902cd08f3))
+
 # [1.4.0-FOO.1](https://github.com/kijewskimateusz/semantic/compare/v1.3.0...v1.4.0-FOO.1) (2023-03-03)
 
 
