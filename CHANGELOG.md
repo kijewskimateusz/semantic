@@ -1,3 +1,16 @@
+# [1.7.0](https://github.com/kijewskimateusz/semantic/compare/v1.6.0...v1.7.0) (2023-03-03)
+
+
+### Bug Fixes
+
+* **file2:** edited file ([3653a38](https://github.com/kijewskimateusz/semantic/commit/3653a38e435a152cb698b742af134c31fc9877bf))
+
+
+### Features
+
+* **file2:** added new line in file2 ([747a261](https://github.com/kijewskimateusz/semantic/commit/747a2616193882ade1324c2ada006e4711a61649))
+* **file:** added new line ([3918d3c](https://github.com/kijewskimateusz/semantic/commit/3918d3c6b625050966f8cb36fefbb7c3d394c99a))
+
 # [1.6.0](https://github.com/kijewskimateusz/semantic/compare/v1.5.0...v1.6.0) (2023-03-03)
 
 
