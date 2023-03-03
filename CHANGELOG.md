@@ -1,3 +1,10 @@
+# [1.4.0-beta.3](https://github.com/kijewskimateusz/semantic/compare/v1.4.0-beta.2...v1.4.0-beta.3) (2023-03-03)
+
+
+### Features
+
+* **file:** more text ([1906650](https://github.com/kijewskimateusz/semantic/commit/1906650b75c773d6af45e6c877e76aa51b9ffea3))
+
 # [1.4.0-beta.2](https://github.com/kijewskimateusz/semantic/compare/v1.4.0-beta.1...v1.4.0-beta.2) (2023-03-03)
 
 
