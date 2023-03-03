@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/kijewskimateusz/semantic/compare/v1.4.0...v1.5.0) (2023-03-03)
+
+
+### Features
+
+* **foo:** workflow on every push ([5bbd7df](https://github.com/kijewskimateusz/semantic/commit/5bbd7df280d4d4f72109e4c69f7531dfd46c4501))
+
 # [1.5.0-dev-foo.1](https://github.com/kijewskimateusz/semantic/compare/v1.4.0...v1.5.0-dev-foo.1) (2023-03-03)
 
 
