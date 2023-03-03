@@ -1,3 +1,24 @@
+# [1.3.0-dev-foobarbaz.2](https://github.com/kijewskimateusz/semantic/compare/v1.3.0-dev-foobarbaz.1...v1.3.0-dev-foobarbaz.2) (2023-03-03)
+
+
+### Bug Fixes
+
+* **file:** edited new line docs ([308ff68](https://github.com/kijewskimateusz/semantic/commit/308ff680640024fa754938b16a61745838ef60ce))
+
+# [1.3.0-dev-foobarbaz.1](https://github.com/kijewskimateusz/semantic/compare/v1.2.1-dev-foobarbaz.1...v1.3.0-dev-foobarbaz.1) (2023-03-03)
+
+
+### Features
+
+* **file:** added new line docs ([5d1c77c](https://github.com/kijewskimateusz/semantic/commit/5d1c77c9d9ba681c1678e4a6a5d8773a7447c01b))
+
+## [1.2.1-dev-foobarbaz.1](https://github.com/kijewskimateusz/semantic/compare/v1.2.0...v1.2.1-dev-foobarbaz.1) (2023-03-03)
+
+
+### Bug Fixes
+
+* **release:** changed git plugin ([7ffc884](https://github.com/kijewskimateusz/semantic/commit/7ffc884638591ab70a9d01c98782ffc8c57d0638))
+
 # [1.2.0](https://github.com/kijewskimateusz/semantic/compare/v1.1.0...v1.2.0) (2023-03-03)
 
 
