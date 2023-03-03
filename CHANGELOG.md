@@ -1,3 +1,10 @@
+# [1.4.0-FOO.1](https://github.com/kijewskimateusz/semantic/compare/v1.3.0...v1.4.0-FOO.1) (2023-03-03)
+
+
+### Features
+
+* **file:** new line ([670a9e3](https://github.com/kijewskimateusz/semantic/commit/670a9e31b36e0f2d1839d133c2fb9ff2caeb5a57))
+
 # [1.3.0](https://github.com/kijewskimateusz/semantic/compare/v1.2.0...v1.3.0) (2023-03-03)
 
 
