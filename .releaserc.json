@@ -22,7 +22,7 @@
   "repositoryUrl": "https://github.com/kijewskimateusz/semantic.git",
   "debug": true,
   "ci": false,
-  "dryRun": true
+  "dryRun": false
 
 
 }
