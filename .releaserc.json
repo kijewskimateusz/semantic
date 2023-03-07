@@ -8,14 +8,21 @@
     "plugins": [
       "@semantic-release/commit-analyzer",
       "@semantic-release/release-notes-generator",
-      "@semantic-release/changelog",
       "@semantic-release/git",
-      "@semantic-release/github"
+      "@semantic-release/github",
+      ["@codedependant/semantic-release-docker",{
+        "dockerRegistry":"us-docker.pkg.dev",
+        "dockerProject":"dev-purple-lotus-warehouse/dev-sem-rel",
+        "dockerFile":"Dockerfile",
+        "dockerImage":"foobar"
+
+      }
+    ]
     ],
   "repositoryUrl": "https://github.com/kijewskimateusz/semantic.git",
-  "debug": false,
+  "debug": true,
   "ci": false,
-  "dryRun": false
+  "dryRun": true
 
 
 }
