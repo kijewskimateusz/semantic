@@ -14,7 +14,8 @@
         "dockerRegistry":"us-docker.pkg.dev",
         "dockerProject":"dev-purple-lotus-warehouse/dev-sem-rel",
         "dockerFile":"Dockerfile",
-        "dockerImage":"foobar"
+        "dockerImage":"foobar",
+        "dockerLogin":false
 
       }
     ]
