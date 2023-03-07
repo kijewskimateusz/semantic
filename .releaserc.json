@@ -11,10 +11,11 @@
       "@semantic-release/git",
       "@semantic-release/github",
       ["@codedependant/semantic-release-docker",{
-        "dockerRegistry":"us-docker.pkg.dev",
-        "dockerProject":"dev-purple-lotus-warehouse/dev-sem-rel",
-        "dockerFile":"Dockerfile",
+        "dockerTags": ["latest", "{{version}}", "{{major}}-latest", "{{major}}.{{minor}}"],
         "dockerImage":"foobar",
+        "dockerProject":"dev-sem-rel",
+        "dockerRegistry":"us-docker.pkg.dev/dev-purple-lotus-warehouse",
+        "dockerFile":"Dockerfile",
         "dockerLogin":false
 
       }
