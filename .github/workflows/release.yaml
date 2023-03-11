@@ -9,9 +9,48 @@ on:
       - dev-*
 
 jobs:
-  release:
-    name: Release
+  Release-dev:
+    name: Release-dev
     runs-on: ubuntu-latest
+    environment: Development
+    env:
+      GOOGLE_CREDENTIALS: ${{ secrets.DEV_GOOGLE_CREDENTIALS }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      
+      - name: Authenticate to Google Cloud
+        uses: google-github-actions/auth@v1
+        with:
+          credentials_json: ${{ env.GOOGLE_CREDENTIALS }}
+      
+      - name: Configure docker client
+        run: |
+          gcloud auth configure-docker --quiet
+          gcloud auth configure-docker us-docker.pkg.dev --quiet
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "lts/*"
+
+      - name: Install dependencies
+        run: npm install -g semantic-release @semantic-release/git @semantic-release/changelog @codedependant/semantic-release-docker -D
+      
+      - name: Release
+        run: npx semantic-release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+  
+  release-stg:
+    name: Release-stg
+    runs-on: ubuntu-latest
+    needs: Release-dev
+    environment: Stage
     env:
       GOOGLE_CREDENTIALS: ${{ secrets.DEV_GOOGLE_CREDENTIALS }}
 
