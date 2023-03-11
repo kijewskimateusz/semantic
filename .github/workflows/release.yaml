@@ -25,7 +25,7 @@ jobs:
           node-version: "lts/*"
 
       - name: Install dependencies
-        run: npm install -g semantic-release @semantic-release/git @semantic-release/changelog -D
+        run: npm install -g semantic-release @semantic-release/git @semantic-release/changelog @codedependant/semantic-release-docker -D
       
       - name: Release
         run: npx semantic-release
