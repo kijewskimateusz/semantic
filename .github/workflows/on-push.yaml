@@ -1,0 +1,35 @@
+name: Tag release for Project
+
+on:
+  push:
+    branches:
+      - main
+      - master
+      - beta
+      - dev-*
+
+jobs:
+  release:
+    name: Release
+    runs-on: ubuntu-latest
+    env:
+      # GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          # persist-credentials: false
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "lts/*"
+
+      - name: Install dependencies
+        run: npm install -g semantic-release @semantic-release/git @semantic-release/changelog
+
+      - name: Release
+        run: npx semantic-release
+        # env:
+        #   GITHUB_TOKEN: ${{ env.GITHUB_TOKEN }}
